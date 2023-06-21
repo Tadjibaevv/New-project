@@ -4,11 +4,12 @@ body {
 }
 
 img {
-   width: 100px;
+   width: 101px;
    display: block;
    margin-bottom: 10px;
     
 }
 li a{
     text-decoration: none;
+
 }
